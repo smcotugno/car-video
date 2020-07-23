@@ -101,7 +101,6 @@ to your OpenShift development cluster.
 ```$bash
 oc login
 oc get pods
-npm install -g @ibmgaragecloud/cloud-native-toolkit-cli
 git clone <code pattern> | cd <code pattern>
 
 ```
